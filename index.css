@@ -1,0 +1,27 @@
+* {
+  margin: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #ffcb9a;
+}
+
+.sun {
+  width: 300px;
+  height: 255px;
+}
+
+td {
+  border: 1px solid black;
+}
+
+td:hover {
+  background-color: #d9b08c;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
